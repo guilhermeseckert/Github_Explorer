@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="150" height="100" src="img/logo.png">
+  <img width="150" height="100" src="img/logo.svg">
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ The following tools were used in the construction of the project:
 
 ## Features
 
-- [ ] Serach Repositories
+- [x] Serach Repositories
 
 
 ### Prerequisites
@@ -69,7 +69,7 @@ In addition, it is good to have an editor to work with the code like
 - React-router-dom
 - React-icons
 - Polished
-- Axius
+- Axios
 
 
 ### 🎲 Running the the project
