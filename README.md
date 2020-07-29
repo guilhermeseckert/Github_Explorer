@@ -15,7 +15,7 @@
 <h2 align="center">
 	 🚀 Responsive Git Explorer for study purposes. 🚀
 
-   [Demonstration here](https://twitter-clone-guilherme-509609.netlify.app/)
+   [Demonstration here](https://guilhermegitexplorer.netlify.app/)
 </h2>
 
 
